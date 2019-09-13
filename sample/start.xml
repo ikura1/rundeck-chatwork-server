@@ -1,0 +1,17 @@
+<notification trigger='start' status='running' executionId='11300'>
+  <executions count='1'>
+    <execution id='11300' href='http://127.0.0.1:4440/project/Test/execution/follow/11300' permalink='' status='running' project='Test'>
+      <user>admin</user>
+      <date-started unixtime='1554873629000'>2019-04-10T05:20:29Z</date-started>
+      <job id='447325b9-0b4b-40cc-960c-1f663343a161' averageDuration='17707' href='http://127.0.0.1:4440/api/30/job/447325b9-0b4b-40cc-960c-1f663343a161' permalink='http://127.0.0.1:4440/project/Test/job/show/447325b9-0b4b-40cc-960c-1f663343a161'>
+        <name>date</name>
+        <group></group>
+        <project>Test</project>
+        <description>date</description>
+      </job>
+      <description>date ('date')</description>
+      <argstring />
+      <serverUUID>a14bc3e6-75e8-4fe4-a90d-a16dcc976bf6</serverUUID>
+    </execution>
+  </executions>
+</notification>

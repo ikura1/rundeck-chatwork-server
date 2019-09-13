@@ -1,0 +1,21 @@
+<notification trigger='failure' status='failed' executionId='11301'>
+  <executions count='1'>
+    <execution id='11301' href='http://127.0.0.1:4440/project/Test/execution/follow/11301' permalink='' status='failed' project='Test'>
+      <user>admin</user>
+      <date-started unixtime='1554874290000'>2019-04-10T05:31:30Z</date-started>
+      <date-ended unixtime='1554874291904'>2019-04-10T05:31:31Z</date-ended>
+      <job id='447325b9-0b4b-40cc-960c-1f663343a161' averageDuration='13787' href='http://127.0.0.1:4440/api/30/job/447325b9-0b4b-40cc-960c-1f663343a161' permalink='http://127.0.0.1:4440/project/Test/job/show/447325b9-0b4b-40cc-960c-1f663343a161'>
+        <name>date</name>
+        <group></group>
+        <project>Test</project>
+        <description>date</description>
+      </job>
+      <description>data ('date')</description>
+      <argstring />
+      <serverUUID>a14bc3e6-75e8-4fe4-a90d-a16dcc976bf6</serverUUID>
+      <failedNodes>
+        <node name='c51eedb857d4' />
+      </failedNodes>
+    </execution>
+  </executions>
+</notification>
